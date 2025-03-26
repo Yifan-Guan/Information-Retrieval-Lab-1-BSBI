@@ -1,0 +1,11 @@
+__pycache__/
+.idea/
+dev_output/
+dev_queries/
+output_dir/
+output_dir_compressed/
+output_dir_ec_compressed/
+pa1-data/
+temp/
+toy_output_dir/
+toy-data/
